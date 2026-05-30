@@ -90,7 +90,6 @@ During this week, I gained basic knowledge of:
 ## Challenges Faced
 
 Since I was new to Git and GitHub, understanding repositories, commits, and project structure was initially challenging. However, after practicing and exploring the tools, I became more comfortable with the workflow.
-
 ## Outcome
 
 By the end of Week 1, I successfully learned the basics of Google Colab, NotebookLM, Git, and GitHub. I also created and organized my GitHub repository for the internship project and documented my learning progress.

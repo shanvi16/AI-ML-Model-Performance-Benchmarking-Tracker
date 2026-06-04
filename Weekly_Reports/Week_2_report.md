@@ -14,7 +14,7 @@ The dataset was successfully imported into Google Colab using Python libraries. 
 
 ## Data Understanding
 
-The dataset was explored to understand the available features, data types, and overall structure. Statistical summaries and dataset information were reviewed to identify important characteristics of the data.
+The dataset was explored to understand the available features, data types and overall structure. Statistical summaries and dataset information were reviewed to identify important characteristics of the data.
 
 ## Data Cleaning
 

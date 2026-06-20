@@ -125,7 +125,7 @@ The dataset was successfully analyzed, cleaned and validated through a structure
 ## 🎓 Internship Information
 
 **Company:** AKSHAR AI LTD  
-**Location:** London , UK 
+**Location:** London , UK || 
 **Industry Mentor:** Mr. Hitendrasinh Rathod  
 
 AKSHAR AI focuses on Artificial Intelligence solutions, intelligent applications, AI consulting, automation and AI-powered software development. The company provides end-to-end AI services including data solutions, AI agents, application development and AI-driven business transformation. :contentReference[oaicite:0]{index=0}

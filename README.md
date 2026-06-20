@@ -134,9 +134,9 @@ AKSHAR AI focuses on Artificial Intelligence solutions, intelligent applications
 
 ## 👩‍💻 Author
 
-**Shanvi Sinha**
-B.Tech Computer Science and Engineering
-Ganpat University (ICT}
+**Shanvi Sinha** ||
+B.Tech Computer Science and Engineering ||
+Ganpat University (ICT)
 
 ### Connect With Me
 

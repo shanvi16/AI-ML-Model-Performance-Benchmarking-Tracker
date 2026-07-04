@@ -47,4 +47,4 @@ Enhanced understanding of employee attrition data and its influencing factors.
 Gained confidence in preparing datasets for machine learning tasks.
 
 Outcome
-By the end of Week 5, I successfully completed the preprocessing and exploratory data analysis of the HR Employee Attrition Dataset using Google Colab. This hands-on practice enhanced my data analysis skills, improved my familiarity with real-world datasets, and strengthened my understanding of preparing data for machine learning models.
+By the end of Week 5, I successfully completed the preprocessing and exploratory data analysis of the HR Employee Attrition Dataset using Google Colab. This hands-on practice enhanced my data analysis skills, improved my familiarity with real-world datasets and strengthened my understanding of preparing data for machine learning models.
